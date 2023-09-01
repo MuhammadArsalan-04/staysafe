@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1037328315982",
+    "project_id": "staysafe-11254",
+    "storage_bucket": "staysafe-11254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037328315982:android:267f7ee4db78d12fa9351f",
+        "android_client_info": {
+          "package_name": "com.example.stay_safe_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037328315982-ge9nbac3dkedsjadipuqq9v889mts2jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stay_safe_user",
+            "certificate_hash": "3a0026637c51dbd0a693d2a85c546745a9cdc370"
+          }
+        },
+        {
+          "client_id": "1037328315982-c0omg677dmke4ico9603o7g33tmaqndi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcR9Z4vP0I_SlGlyWWPBiypCx_3snac6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037328315982-c0omg677dmke4ico9603o7g33tmaqndi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
